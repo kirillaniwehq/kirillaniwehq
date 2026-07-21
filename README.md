@@ -11,7 +11,7 @@
 ### 🛠 Tech Stack
 
 **Languages & Runtimes:**
-`Python` `JavaScript (ES6+)` `Node.js` `PHP` `HTML5/CSS3`
+`Python` `JavaScript (ES6+)` `Node.js` `PHP` `HTML5/CSS3` `С++`
 
 **Automation & Tools:**
 `Puppeteer / Playwright` `Docker` `Git` `REST APIs` `Linux / Bash`
