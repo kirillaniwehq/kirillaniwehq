@@ -25,6 +25,5 @@
 
 ### 📊 GitHub Activity & Stats
 
-*(Опціональні інтерактивні бейджі — якщо вони вам подобаються, можна залишити)*
-
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillaniwehq&show_icons=true&theme=dark)
+
