@@ -25,5 +25,5 @@
 
 ### 📊 GitHub Activity & Stats
 
-![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillaniwehq&show_icons=true&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirillaniwehq&theme=dark)
 
